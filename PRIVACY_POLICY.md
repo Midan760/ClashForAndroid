@@ -1,3 +1,7 @@
+---
+type: Journal
+---
+
 ## Privacy Policy
 
 The Clash for Android is built as an Open Source software. This app is provided by personal at no cost and is intended for use as is.
